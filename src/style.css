@@ -17,3 +17,11 @@ body
     left: 0;
     outline: none;
 }
+
+.privacidade
+{
+    position: fixed;
+    bottom: 10px;
+    right: 10px;
+    z-index: 1;
+}
