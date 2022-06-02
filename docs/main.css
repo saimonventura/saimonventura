@@ -16,4 +16,17 @@ body {
 }
 
 
+.privacidade {
+    position: absolute;
+    bottom: 10px;
+    right: 10px; 
+    cursor: pointer;
+    z-index: 1;
+    text-decoration: none;
+    color: #fff;
+    background-color: black;
+
+}
+
+
 /*# sourceMappingURL=main.css.map*/
