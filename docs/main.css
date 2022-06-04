@@ -1,21 +1,51 @@
-*
-{
+* {
     margin: 0;
     padding: 0;
 }
 
 html,
-body
-{
+body {
     overflow: hidden;
 }
 
-.webgl
-{
+.webgl {
     position: fixed;
     top: 0;
     left: 0;
     outline: none;
+}
+
+.privacidade {
+    position: fixed;
+    bottom: 10px;
+    right: 10px;
+    z-index: 1;
+    font-size: 9px;
+    background-color: black;
+    color: white;
+}
+
+.socialBox {
+    z-index: 1;
+    border-radius: 16px;
+    padding: 2px;
+}
+
+.instagram {
+    position: fixed;
+    bottom: 4px;
+    left: 4px;
+}
+
+.whatsapp {
+    position: fixed;
+    top: 4px;
+    left: 4px;
+}
+
+.miniSocialIcon {
+    width: 64px;
+    height: 64px;
 }
 
 
