@@ -70,10 +70,9 @@ I'm a **problem-focused developer** with 8+ years of experience. Currently at **
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=saimonventura&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saimonventura&layout=compact&theme=tokyonight&hide_border=true"/>
+[![GitHub Streak](https://streak-stats.demolab.com?user=saimonventura&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=saimonventura&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+![Saimon's GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=saimonventura&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
 
 </div>
 
