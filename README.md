@@ -67,18 +67,6 @@ I'm a **problem-focused developer** with 8+ years of experience. Currently at **
 
 ---
 
-## GitHub Stats
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=saimonventura&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
-![Saimon's GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=saimonventura&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
-
-</div>
-
----
-
 ## Currently
 
 - 🔭 Building cool stuff at my current role
