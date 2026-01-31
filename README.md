@@ -25,7 +25,7 @@ const saimon = {
 };
 ```
 
-I'm a **problem-focused developer** with 8+ years of experience. I've worked with international companies like **FreshBooks**, **Talkdesk**, and **Wing Solutions** — building everything from marketing websites to complex microservices architectures.
+I'm a **problem-focused developer** with 8+ years of experience. Currently at **Blip.pt** (Flutter Entertainment / PokerStars). Previously worked with **FreshBooks**, **Talkdesk**, and **Wing Solutions** — building everything from marketing websites to complex microservices architectures.
 
 ---
 
@@ -91,9 +91,10 @@ I'm a **problem-focused developer** with 8+ years of experience. I've worked wit
 
 ### Let's connect!
 
-*Feel free to reach out for collaborations, opportunities, or just to talk about psytrance* 🎶
+*Feel free to reach out for collaborations, opportunities, or just to talk about [psytrance](https://soundcloud.com/saimon-ventura/likes)* 🎶
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saimon-v-36703280/)
+[![SoundCloud](https://img.shields.io/badge/SoundCloud-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white)](https://soundcloud.com/saimon-ventura/likes)
 
 </div>
 
