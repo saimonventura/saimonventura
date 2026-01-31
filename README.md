@@ -1,110 +1,106 @@
 <div align="center">
 
-# Saimon Ventura
+<!-- Header animado -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=9745F5&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Saimon+Ventura+%F0%9F%91%8B;Senior+Full+Stack+Developer;Building+web+experiences+since+2017)](https://git.io/typing-svg)
 
-### Full Stack Developer
+*Fueled by mass doses of psytrance and philosophical breakdowns* 🌀
 
-📍 Porto, Portugal · 📞 +351 965 561 444
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/saimon-v-36703280/)
-
-✅ *Work visa and sole proprietorship active in Portugal*
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saimon-v-36703280/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/saimonventura)
+[![SoundCloud](https://img.shields.io/badge/SoundCloud-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white)](https://soundcloud.com/saimon-ventura/likes)
 
 </div>
 
 ---
 
-## 🛠 Skills
+## About Me
 
-**Frontend:** ReactJS · NextJS · React Native · Redux · TypeScript · ViteJS
-**Backend:** NodeJS · Laravel · Flask · Django
-**Testing:** Jest · Cypress · E2E · Integration · Unit
-**Cloud & DevOps:** AWS (EC2, S3, Lambda, SQS) · CI/CD · Docker
-**Databases:** MySQL · BigQuery
+```javascript
+const saimon = {
+  location: "Brazil -> Portugal",
+  focus: "Full Stack Development",
+  passion: "Solving complex problems with elegant solutions",
+  philosophy: "Each language has its purpose — I leverage their strengths",
+  currentlyVibing: "140+ BPM existential drops 🎧"
+};
+```
 
----
-
-## 💼 Experience
-
-### Full Stack Developer · Wing Solutions
-📍 Brazil · *Mar 2023 - Nov 2025*
-
-- Developed features from scratch to production for an e-commerce platform with integrated sales funnel and CRM
-- Built and maintained web applications using NextJS, ViteJS, ReactJS, and Redux
-- Developed backend services with NodeJS and Laravel PHP
-- Managed MySQL databases and AWS infrastructure (EC2, S3, Lambda, SQS)
+I'm a **problem-focused developer** with 8+ years of experience. I've worked with international companies like **FreshBooks**, **Talkdesk**, and **Wing Solutions** — building everything from marketing websites to complex microservices architectures.
 
 ---
 
-### Sr. Frontend Developer · Talkdesk
-📍 Portugal · *Sep 2025 - Oct 2025*
+## Tech Stack
 
-- Short-term contract covering for the lead frontend developer
-- Maintained existing codebase and developed new features
-- **Tech stack:** NextJS, ReactJS, Redux, Redux-Saga
-- 🌍 Full English environment with Agile/Scrum methodology
+<details>
+<summary><b>Frontend</b> — where I spend most of my time</summary>
+<br>
 
----
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 
-### Full Stack Developer · FreshBooks
-📍 Canada (Remote) · *Oct 2021 - Dec 2023, Apr 2024 - Aug 2024, Dec 2024 - May 2025*
+</details>
 
-- Three fixed-term direct contracts with the company
-- Developed and maintained features using ReactJS with strong focus on code quality and high test coverage (unit, integration, E2E)
-- Built and debugged microservices-based backend systems
-- ⭐ **Notable achievement:** Discovered and fixed a critical backend issue involving worker debugging, log analysis, and large-scale data queries
-- 🌍 Full English environment with Agile/Scrum sprints and ceremonies
+<details>
+<summary><b>Backend</b> — the other half</summary>
+<br>
 
----
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
 
-### Full Stack Developer · Cuponeria
-📍 Brazil · *May 2021 - Dec 2022*
+</details>
 
-- Developed and maintained React Native mobile applications
-- Built high-performance web pages using NextJS with REST APIs
-- Strong focus on testing, code quality, and performance optimization
+<details>
+<summary><b>Cloud & DevOps</b></summary>
+<br>
 
----
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/GCloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
 
-### Mobile/Web Developer · TradeUp Group
-📍 Brazil · *Oct 2019 - May 2021*
-
-- Developed and maintained React Native mobile applications
-- Built web applications using ReactJS with Redux and TypeScript
-- Implemented CI/CD pipelines and automated testing with Jest and Cypress
+</details>
 
 ---
 
-### Full Stack Developer · AJX Automação Comercial
-📍 Brazil · *Dec 2017 - Oct 2019*
+## GitHub Stats
 
-- Developed mobile application for restaurant order management using Ionic
-- Built backend services with Laravel and integrated with legacy Pascal system
+<div align="center">
 
----
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=saimonventura&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saimonventura&layout=compact&theme=tokyonight&hide_border=true"/>
 
-## 🎓 Education
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=saimonventura&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
-**Bachelor's Degree in Mathematics**
-Federal University of Santa Catarina (UFSC), Brazil
+</div>
 
 ---
 
-## 💬 Recommendations
+## Currently
 
-> *"Exceptional full-stack developer... strong technical skills, reliable and collaborative team member"*
-> — **Dušan Šarenac**, Tech Lead at FreshBooks
-
-> *"Took great ownership over his responsibilities... a great engineer and an asset to any team"*
-> — **Nicholas Pyren**, Senior Engineer
-
-> *"One of the most energetic, eager to learn and capable engineers I've ever worked with... grew from capable front-end to amazing full-stack engineer"*
-> — **Maxim Van Lyl**, Senior Engineer
+- 🔭 Building cool stuff at my current role
+- 🌱 Always learning something new
+- 🎧 Debugging code and my own existence since 2017
 
 ---
 
-## 👤 About Me
+<div align="center">
 
-Passionate about learning and problem-solving. I enjoy tackling complex challenges and continuously improving my skills.
+### Let's connect!
 
-🎮 **Hobbies:** Drone piloting · Puzzles
+*Feel free to reach out for collaborations, opportunities, or just to talk about psytrance* 🎶
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saimon-v-36703280/)
+
+</div>
+
+---
+
+<div align="center">
+
+![Snake animation](https://raw.githubusercontent.com/saimonventura/saimonventura/output/github-snake-dark.svg)
+
+</div>
